@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  direction: rtl;
+  font-weight: bold;
+  text-align: center;
+  padding: 5%;
+  background-color: lightblue;
+  font-family: Calibri;
+}
+
+#time {
+  font-size: 4rem;
+}
+
+#date {
+  font-size: 2rem;
+}
